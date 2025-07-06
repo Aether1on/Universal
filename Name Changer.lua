@@ -1,7 +1,7 @@
 if not getgenv().Config then
     getgenv().Config = {
         Headless = false,
-        FakeDisplayName = " brighter",
+        FakeDisplayName = "  brighter ",
         FakeName = "lol",
         FakeId = 13886182,
     }
